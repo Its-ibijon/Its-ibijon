@@ -29,3 +29,25 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" height="20" width="20"/> Rust
  
  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/elm_original_wordmark_logo_icon_146537.png" height="40" width="40"/>Elm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Its-ibijon)](https://github.com/anuraghazra/github-readme-stats)
